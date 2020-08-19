@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip "Zeruxky" Wille</h1>
-<h3 align="center">Smart hobby software developer living in Austria</h3>
+<h3 align="center">C# software developer living in Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeruxky" alt="zeruxky" /> </p>
 
