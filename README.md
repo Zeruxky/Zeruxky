@@ -27,7 +27,7 @@
   - CoAP
   - DTLS
   - .NET Core and the whole C# environment
-  - Design and implementation of software for C#
+  - Design and implementation of software applications for C#
   - Open Source
 
 - My Github stats
