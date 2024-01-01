@@ -16,9 +16,9 @@ I love to use and play around with new cool open source software, which I can ho
 - ⚡ Fun fact **Don't like coffee :/**
 
 <a href="https://github-readme-stats.vercel.app/api?username=zeruxky">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zeruxky&show_icons=true&theme=transparent" alt="zeruxky" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zeruxky&show_icons=true&theme=transparent&hide_border=true" alt="zeruxky" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=zeruxky">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruxky&hide=html&theme=transparent" alt="zeruxky" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruxky&hide=html&theme=transparent&hide_border=true" alt="zeruxky" />
 </a>
