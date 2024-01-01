@@ -1,10 +1,6 @@
 # Hi 👋, I'm Philip "Zeruxky" Wille
 
----
-
 ## C# software developer living in Austria
-
-[![Profile views of Zeruxky](https://komarev.com/ghpvc/?username=zeruxky)](https://komarev.com/ghpvc/?username=zeruxky)
 
 I'm a .NET backend developer with five years of experience. I work for the company [World-Direct eBusiness solutions GmbH](https://world-direct.at) located in Tyrol. There I'm programming backend services, APIs and CLI applications for customers which are active in the european energy industry.
 
@@ -18,6 +14,10 @@ I love to use and play around with new cool open source software, which I can ho
 
 - ⚡ Fun fact **Don't like coffee :/**
 
-[![Philip Wille's Github Stats](https://github-readme-stats.vercel.app/api?username=zeruxky&show_icons=true&theme=transparent&hide_border=true)](https://github-readme-stats.vercel.app/api?username=zeruxky)
+<a href="https://github-readme-stats.vercel.app/api?username=zeruxky">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zeruxky&show_icons=true&theme=transparent&hide_border=true" alt="zeruxky" />
+</a>
 
-[![Philip Wille's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruxky&hide=html&theme=transparent&hide_border=true)](https://github-readme-stats.vercel.app/api?username=zeruxky)
+<a href="https://github-readme-stats.vercel.app/api?username=zeruxky">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruxky&hide=html&theme=transparent&hide_border=true" alt="zeruxky" />
+</a>
